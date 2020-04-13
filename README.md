@@ -24,9 +24,9 @@ For the smart internet usage we need mentors from Google, together we can devise
 Date  | Task
 ------------- | -------------
 December 28, 2019  | Our UI/UX has already been completed. 
-January 15, 2020  | Dataset has already been collected from multiple sources and model is expected to be trained for offline use.
+January 15, 2020  | Dataset has already been collected from multiple sources and model is expected to be trained for use.
 January 30, 2020  | Expected testing and deployment in the TensorFlow lite model for initial beta.
-February 8, 2020  | To incorporate the Firebase ML Kit for working in online conditions and for the purpose of uploading samples that couldn’t be recognized by model, for future incremental learning.
+February 8, 2020  | To incorporate model with GCP for working in online conditions and for the purpose of uploading samples that couldn’t be recognized by model, for future incremental learning.
 March 28, 2020  | To complete rest of online features.
 April 25, 2020  | Smart Internet Usage in working condition
 
